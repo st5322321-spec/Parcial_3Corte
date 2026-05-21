@@ -1,7 +1,7 @@
 # Dungeon Crawler – Parcial Final
 
 ## Integrantes
-> _Completa con los nombres de tu grupo_
+> Juan Sebastian Tovar Estrada
 
 ---
 
